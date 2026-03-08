@@ -1,0 +1,324 @@
+step 0: train loss 3.7072, val loss 3.7213
+step 100: train loss 2.7492, val loss 2.7555
+step 200: train loss 2.7174, val loss 2.7250
+step 300: train loss 2.6603, val loss 2.6626
+step 400: train loss 2.5022, val loss 2.5087
+step 500: train loss 2.4272, val loss 2.4345
+step 600: train loss 2.3649, val loss 2.3723
+step 800: train loss 2.2560, val loss 2.2636
+step 900: train loss 2.2126, val loss 2.2208
+step 1000: train loss 2.1755, val loss 2.1881
+step 1100: train loss 2.1369, val loss 2.1500
+step 1200: train loss 2.1122, val loss 2.1253
+step 1300: train loss 2.0882, val loss 2.1024
+step 1400: train loss 2.0613, val loss 2.0777
+step 1500: train loss 2.0494, val loss 2.0655
+step 1600: train loss 2.0226, val loss 2.0427
+step 1700: train loss 2.0069, val loss 2.0256
+step 1800: train loss 1.9935, val loss 2.0139
+step 1900: train loss 1.9792, val loss 1.9998
+step 2000: train loss 1.9660, val loss 1.9857
+step 2100: train loss 1.9551, val loss 1.9771
+step 2200: train loss 1.9466, val loss 1.9695
+step 2300: train loss 1.9381, val loss 1.9620
+step 2400: train loss 1.9305, val loss 1.9549
+step 2500: train loss 1.9205, val loss 1.9427
+step 2600: train loss 1.9118, val loss 1.9349
+step 2700: train loss 1.9043, val loss 1.9270
+step 2800: train loss 1.8990, val loss 1.9219
+step 2900: train loss 1.8889, val loss 1.9166
+step 3000: train loss 1.8801, val loss 1.9046
+step 3100: train loss 1.8752, val loss 1.8983
+step 3200: train loss 1.8686, val loss 1.8954
+step 3300: train loss 1.8635, val loss 1.8899
+step 3400: train loss 1.8598, val loss 1.8837
+step 3500: train loss 1.8527, val loss 1.8795
+step 3600: train loss 1.8472, val loss 1.8735
+step 3700: train loss 1.8442, val loss 1.8713
+step 3800: train loss 1.8367, val loss 1.8661
+step 3900: train loss 1.8346, val loss 1.8639
+step 4000: train loss 1.8285, val loss 1.8552
+step 4100: train loss 1.8268, val loss 1.8535
+step 4200: train loss 1.8205, val loss 1.8521
+step 4300: train loss 1.8196, val loss 1.8446
+step 4400: train loss 1.8107, val loss 1.8410
+step 4500: train loss 1.8079, val loss 1.8371
+step 4600: train loss 1.8023, val loss 1.8342
+step 4700: train loss 1.8000, val loss 1.8295
+step 4800: train loss 1.7980, val loss 1.8289
+step 4900: train loss 1.7938, val loss 1.8268
+step 4999: train loss 1.7914, val loss 1.8213
+
+فلؤم إن عيبتك معاشر خطبته
+تذكر هاما وثوب المام تذلب
+قد طرقت ملء مكارر بوابع
+خامر الماجد وابن الغمام أيجرب
+ذكرت الغجاع مرق ترده العلى
+عطائهم ماء الرقيا ومعتب
+خصيصة الدع ينظرون إلا غيرها
+وتكسر الله ولم ينج بمنذرب
+وقد تقص عنها المرتج أين يقي
+وعاقتيه يقتضي بكل مصحب
+بنار أصحافها طلبت له الدهر
+لقد سفكت عن نضار الهم سجرته
+منهق وهن لا يجدى غير مأتقب
+صليت سوى الخير المشفع ما فد ال
+أتاها إذ طال الفوارس مغتضب
+وفيت السوى يفوف وما الليث بها
+لئن رأيت من قبل قبل عن الغضب
+من ه طيرا عيشت يقيت ومغابة
+لتسلطة القبو
+
+
+
+
+step 0: train loss 1.7299, val loss 1.7679
+step 100: train loss 1.6700, val loss 1.7152
+step 200: train loss 1.6706, val loss 1.7148
+step 300: train loss 1.6658, val loss 1.7156
+step 400: train loss 1.6634, val loss 1.7104
+step 500: train loss 1.6616, val loss 1.7086
+step 600: train loss 1.6598, val loss 1.7103
+step 700: train loss 1.6540, val loss 1.7074
+step 800: train loss 1.6556, val loss 1.7082
+step 900: train loss 1.6527, val loss 1.7010
+step 1000: train loss 1.6485, val loss 1.6990
+step 1100: train loss 1.6523, val loss 1.7036
+step 1200: train loss 1.6492, val loss 1.6982
+step 1300: train loss 1.6440, val loss 1.6957
+step 1400: train loss 1.6398, val loss 1.6963
+step 1500: train loss 1.6395, val loss 1.6966
+step 1600: train loss 1.6349, val loss 1.6915
+step 1700: train loss 1.6368, val loss 1.6892
+step 1800: train loss 1.6328, val loss 1.6886
+step 1900: train loss 1.6307, val loss 1.6868
+step 2000: train loss 1.6291, val loss 1.6851
+step 2100: train loss 1.6300, val loss 1.6834
+step 2200: train loss 1.6249, val loss 1.6811
+step 2300: train loss 1.6228, val loss 1.6787
+step 2400: train loss 1.6222, val loss 1.6809
+step 2500: train loss 1.6219, val loss 1.6772
+step 2600: train loss 1.6176, val loss 1.6748
+step 2700: train loss 1.6156, val loss 1.6711
+step 2800: train loss 1.6147, val loss 1.6707
+step 2900: train loss 1.6137, val loss 1.6727
+step 3000: train loss 1.6142, val loss 1.6695
+step 3100: train loss 1.6090, val loss 1.6655
+step 3200: train loss 1.6088, val loss 1.6652
+step 3300: train loss 1.6059, val loss 1.6616
+step 3400: train loss 1.6078, val loss 1.6664
+step 3500: train loss 1.6069, val loss 1.6650
+step 3600: train loss 1.6045, val loss 1.6636
+step 3700: train loss 1.6005, val loss 1.6575
+step 3800: train loss 1.5982, val loss 1.6565
+step 3900: train loss 1.5984, val loss 1.6543
+step 4000: train loss 1.5913, val loss 1.6502
+step 4100: train loss 1.5924, val loss 1.6540
+step 4200: train loss 1.5921, val loss 1.6528
+step 4300: train loss 1.5910, val loss 1.6493
+step 4400: train loss 1.5924, val loss 1.6539
+step 4500: train loss 1.5899, val loss 1.6496
+step 4600: train loss 1.5890, val loss 1.6489
+step 4700: train loss 1.5861, val loss 1.6428
+step 4800: train loss 1.5835, val loss 1.6445
+step 4900: train loss 1.5820, val loss 1.6441
+step 4999: train loss 1.5819, val loss 1.6432
+
+أعمام الظلماء في الظلماء
+ما إساءات مصورة في الرجل
+غير والممدود منها وبين
+شهم يبصر للأجلاء
+من كل حسرى قد عبى العبيد
+ما هبت نور ما قضى بالنظم
+قد نعم عاني العباد خفاف
+وللرجاء المداءة الصنصاع
+حققته دم بفيه عصله
+يمحق الدين له فما فيه
+موقعا نرد بلى فيه صور
+أهل له ننجومه ما يسدقه
+جادا مطاياه على الأجياد
+وجلا له الملك المليك عليه
+يخفى لها طعنة بلا أواد
+أهني جدود خائفات قالت
+هنالك في قريشكم لا ترجو
+بعدها ما أنت أهوي مديح
+علقت كما كان يجود وإن أب
+ت الفروج الغني أنك عندي
+إلا وهل رحت تواصيك شكلا
+أم كمثلك ما
+
+
+step 0: train loss 3.7211, val loss 3.7371
+step 100: train loss 2.7521, val loss 2.7581
+step 200: train loss 2.7211, val loss 2.7295
+step 300: train loss 2.6827, val loss 2.6828
+step 400: train loss 2.5091, val loss 2.5129
+step 500: train loss 2.4379, val loss 2.4443
+step 600: train loss 2.3640, val loss 2.3692
+step 700: train loss 2.3130, val loss 2.3226
+step 800: train loss 2.2587, val loss 2.2668
+step 900: train loss 2.2165, val loss 2.2282
+step 1000: train loss 2.1767, val loss 2.1870
+step 1100: train loss 2.1467, val loss 2.1590
+step 1200: train loss 2.1148, val loss 2.1252
+step 1300: train loss 2.0853, val loss 2.0998
+step 1400: train loss 2.0629, val loss 2.0826
+step 1500: train loss 2.0407, val loss 2.0583
+step 1600: train loss 2.0260, val loss 2.0466
+step 1700: train loss 2.0077, val loss 2.0255
+step 1800: train loss 1.9937, val loss 2.0110
+step 1900: train loss 1.9799, val loss 2.0009
+step 2000: train loss 1.9654, val loss 1.9873
+step 2100: train loss 1.9526, val loss 1.9762
+step 2200: train loss 1.9424, val loss 1.9629
+step 2300: train loss 1.9363, val loss 1.9604
+step 2400: train loss 1.9248, val loss 1.9437
+step 2500: train loss 1.9160, val loss 1.9382
+step 2600: train loss 1.9089, val loss 1.9308
+step 2700: train loss 1.8986, val loss 1.9227
+step 2800: train loss 1.8945, val loss 1.9200
+step 2900: train loss 1.8851, val loss 1.9077
+step 3000: train loss 1.8794, val loss 1.9058
+step 3100: train loss 1.8720, val loss 1.8956
+step 3200: train loss 1.8650, val loss 1.8927
+step 3300: train loss 1.8627, val loss 1.8868
+step 3400: train loss 1.8579, val loss 1.8820
+step 3500: train loss 1.8505, val loss 1.8736
+step 3600: train loss 1.8472, val loss 1.8727
+step 3700: train loss 1.8407, val loss 1.8701
+step 3800: train loss 1.8346, val loss 1.8612
+step 3900: train loss 1.8302, val loss 1.8546
+step 4000: train loss 1.8265, val loss 1.8536
+step 4100: train loss 1.8181, val loss 1.8495
+step 4200: train loss 1.8188, val loss 1.8468
+step 4300: train loss 1.8149, val loss 1.8430
+step 4400: train loss 1.8086, val loss 1.8391
+step 4500: train loss 1.8032, val loss 1.8353
+step 4600: train loss 1.7984, val loss 1.8300
+step 4700: train loss 1.7949, val loss 1.8277
+step 4800: train loss 1.7881, val loss 1.8208
+step 4900: train loss 1.7860, val loss 1.8179
+step 5000: train loss 1.7834, val loss 1.8175
+step 5100: train loss 1.7803, val loss 1.8125
+step 5200: train loss 1.7767, val loss 1.8104
+step 5300: train loss 1.7715, val loss 1.8044
+step 5400: train loss 1.7693, val loss 1.8033
+step 5500: train loss 1.7684, val loss 1.8021
+step 5600: train loss 1.7641, val loss 1.7997
+step 5700: train loss 1.7574, val loss 1.7947
+step 5800: train loss 1.7544, val loss 1.7897
+step 5900: train loss 1.7538, val loss 1.7876
+step 6000: train loss 1.7494, val loss 1.7849
+step 6100: train loss 1.7461, val loss 1.7840
+step 6200: train loss 1.7407, val loss 1.7813
+step 6300: train loss 1.7366, val loss 1.7793
+step 6400: train loss 1.7366, val loss 1.7750
+step 6500: train loss 1.7313, val loss 1.7723
+step 6600: train loss 1.7292, val loss 1.7659
+step 6700: train loss 1.7269, val loss 1.7658
+step 6800: train loss 1.7256, val loss 1.7681
+step 6900: train loss 1.7206, val loss 1.7618
+step 7000: train loss 1.7197, val loss 1.7618
+step 7100: train loss 1.7144, val loss 1.7566
+step 7200: train loss 1.7101, val loss 1.7534
+step 7300: train loss 1.7084, val loss 1.7520
+step 7400: train loss 1.7077, val loss 1.7522
+step 7500: train loss 1.7066, val loss 1.7485
+step 7600: train loss 1.6981, val loss 1.7426
+step 7700: train loss 1.6988, val loss 1.7426
+step 7800: train loss 1.6923, val loss 1.7395
+step 7900: train loss 1.6887, val loss 1.7335
+step 8000: train loss 1.6892, val loss 1.7334
+step 8100: train loss 1.6852, val loss 1.7326
+step 8200: train loss 1.6855, val loss 1.7306
+step 8300: train loss 1.6785, val loss 1.7250
+step 8400: train loss 1.6774, val loss 1.7259
+step 8500: train loss 1.6722, val loss 1.7248
+step 8600: train loss 1.6707, val loss 1.7221
+step 8700: train loss 1.6685, val loss 1.7169
+step 8800: train loss 1.6652, val loss 1.7136
+step 8900: train loss 1.6590, val loss 1.7126
+step 9000: train loss 1.6608, val loss 1.7129
+step 9100: train loss 1.6577, val loss 1.7073
+step 9200: train loss 1.6555, val loss 1.7040
+step 9300: train loss 1.6534, val loss 1.7041
+step 9400: train loss 1.6507, val loss 1.7030
+step 9500: train loss 1.6471, val loss 1.7001
+step 9600: train loss 1.6459, val loss 1.7011
+step 9700: train loss 1.6484, val loss 1.6982
+step 9800: train loss 1.6399, val loss 1.6932
+step 9900: train loss 1.6403, val loss 1.6944
+step 10000: train loss 1.6378, val loss 1.6907
+step 10100: train loss 1.6370, val loss 1.6870
+step 10200: train loss 1.6328, val loss 1.6859
+step 10300: train loss 1.6298, val loss 1.6838
+step 10400: train loss 1.6295, val loss 1.6849
+step 10500: train loss 1.6253, val loss 1.6788
+step 10600: train loss 1.6249, val loss 1.6804
+step 10700: train loss 1.6253, val loss 1.6795
+step 10800: train loss 1.6224, val loss 1.6778
+step 10900: train loss 1.6174, val loss 1.6731
+step 11000: train loss 1.6178, val loss 1.6751
+step 11100: train loss 1.6179, val loss 1.6716
+step 11200: train loss 1.6130, val loss 1.6703
+step 11300: train loss 1.6121, val loss 1.6705
+step 11400: train loss 1.6120, val loss 1.6678
+step 11500: train loss 1.6088, val loss 1.6645
+step 11600: train loss 1.6061, val loss 1.6646
+step 11700: train loss 1.6025, val loss 1.6635
+step 11800: train loss 1.6049, val loss 1.6580
+step 11900: train loss 1.6013, val loss 1.6607
+step 12000: train loss 1.6001, val loss 1.6593
+step 12100: train loss 1.5990, val loss 1.6553
+step 12200: train loss 1.5932, val loss 1.6550
+step 12300: train loss 1.5949, val loss 1.6539
+step 12400: train loss 1.5937, val loss 1.6536
+step 12500: train loss 1.5906, val loss 1.6504
+step 12600: train loss 1.5901, val loss 1.6457
+step 12700: train loss 1.5867, val loss 1.6453
+step 12800: train loss 1.5865, val loss 1.6426
+step 12900: train loss 1.5850, val loss 1.6437
+step 13000: train loss 1.5830, val loss 1.6437
+step 13100: train loss 1.5815, val loss 1.6422
+step 13200: train loss 1.5834, val loss 1.6432
+step 13300: train loss 1.5767, val loss 1.6403
+step 13400: train loss 1.5762, val loss 1.6394
+step 13500: train loss 1.5769, val loss 1.6342
+step 13600: train loss 1.5729, val loss 1.6343
+step 13700: train loss 1.5747, val loss 1.6315
+step 13800: train loss 1.5714, val loss 1.6327
+step 13900: train loss 1.5707, val loss 1.6318
+step 14000: train loss 1.5697, val loss 1.6329
+step 14100: train loss 1.5674, val loss 1.6257
+step 14200: train loss 1.5684, val loss 1.6273
+step 14300: train loss 1.5647, val loss 1.6257
+step 14400: train loss 1.5648, val loss 1.6261
+step 14500: train loss 1.5633, val loss 1.6232
+step 14600: train loss 1.5611, val loss 1.6217
+step 14700: train loss 1.5637, val loss 1.6241
+step 14800: train loss 1.5601, val loss 1.6224
+step 14900: train loss 1.5554, val loss 1.6193
+step 14999: train loss 1.5559, val loss 1.6161
+
+في كل ليث غفرة ورعود
+متعشق يتعشق بالليالي
+والنفس شافعة والكرام
+يا برئ لفربم برق الملال
+أو بؤس لفضة قس القياس
+عدها وأزمع الرجال عدمتم
+أو بطر سابق البصير الكنظر
+وأصابت ظلمت بكل شك
+وأجاب مدحك في حسود
+يا مديحا أحلى عقير حبائل
+وارجى بكل نشاشق أو مراحل
+وأضوأ ماكرة أبلا افتراح
+فأسائل شفت لقوم ممدح
+حتى مضني ورأى لجند ذباح
+ونغمت باطمة المسنون خيرا
+بمساع ما اعتز رأيك ناغم
+مهند تعنو الحا ويطيب شهد
+كاسون الدين حاكم الدنيا هنا
+هنا لمن دون أباطح شيد
+يا للم لا تطول قاضيه شجا
+هل ينجح الدنيا منظم بجاز
+هيهات من ش
